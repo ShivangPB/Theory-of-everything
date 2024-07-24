@@ -29,7 +29,7 @@ Indexing of a genome assembly typically involves the following steps:
 
 #### Practical Applications
 
-- **Read Alignment**:
-- **Variant Detection**:
-- **Comparative Genomics**:
-- **Functional Genomics**:
+- Read Alignment
+- Variant Detection
+- Comparative Genomics
+- Functional Genomics
